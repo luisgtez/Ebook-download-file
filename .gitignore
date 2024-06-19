@@ -1,8 +1,8 @@
 # Epubs
-*.epub
+#*.epub
 
 #Pdf
-*.pdf
+#*.pdf
 
 # Google Drive temporary files
 .tmp.*
