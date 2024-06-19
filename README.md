@@ -32,3 +32,8 @@ Flask python server to download files from server.
     flask run --host=0.0.0.0 --port=5001
     ```
 3. Open your web browser and navigate to `<host>:<port>` to download the file.
+
+
+## TODO
+
+- Create landing page with all files within directory "files" of the server and serve all files within the directory in a list format.
