@@ -21,4 +21,4 @@ Flask python server to download files from server.
     ```bash
     flask run --host=0.0.0.0 --port=5001
     ```
-3. Open your web browser and navigate to `http://<host>:<port>/download/<filename>` to download the file.
+3. Open your web browser and navigate to `<host>:<port>` to download the file.
