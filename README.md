@@ -19,7 +19,7 @@ Simple web server to serve files from a directory. Made using Flask.
     ```bash
     python app.py
     ```
-    This will start the application on `localhost` and port `5001`.
+    This will start the application on `localhost` and port `5001` (To navigate to the application, on other devices, use the IP address of the device running the application).
 
 
 ### Method 2: Flask Command - Setup Host and Port manually
