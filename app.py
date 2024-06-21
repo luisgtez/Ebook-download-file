@@ -1,6 +1,6 @@
-from flask import Flask, redirect, send_file, render_template, url_for
+from flask import Flask, send_file, render_template
 import os
-from urllib.parse import quote, unquote
+from urllib.parse import unquote
 
 app = Flask(__name__)
 
