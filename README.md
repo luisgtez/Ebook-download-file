@@ -12,7 +12,7 @@ Simple web server to serve files from a directory. Made using Flask.
     ```
 
 ## Usage
-1. Place your desired file to install in the `/Books` directory.
+1. Place your desired files to be served in the `/Books` directory.
 
 ### Method 1: Run File
 2. Run the `app.py` file.
